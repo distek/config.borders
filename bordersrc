@@ -3,7 +3,7 @@
 borders \
 	active_color=0xff${colors[2]} \
 	inactive_color=0xff${colors[8]} \
-	blacklist="OsxFL" \
+	blacklist="OsxFL,iPhone Mirroring" \
 	hidpi=on \
 	width=5
 
