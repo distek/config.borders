@@ -1,10 +1,10 @@
 . ~/.cache/colorway/colors.sh
 
 borders \
-	active_color=0xff${colors[2]} \
-	inactive_color=0xff${colors[8]} \
+	active_color=0xff8a9a7b \
+	inactive_color=0xff86867c \
 	blacklist="OsxFL,iPhone Mirroring" \
 	hidpi=on \
-	width=5
+	width=10
 
 # vim: ft=sh
